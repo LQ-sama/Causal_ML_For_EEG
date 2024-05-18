@@ -92,3 +92,24 @@ We then used the ICA-based LiNGAM algorithm to quantify the above causal relatio
 Based on the above analysis, we can draw the following conclusions: prefrontal asymmetry (Fp1-Fp2) and parietal asymmetry (P3-P4) have a relatively obvious direct impact on whether or not one is depressed, especially prefrontal asymmetry. Temporal asymmetry (T5-T6) and occipital asymmetry (O1-O2) also have certain effect on depression, but the effect is indirect and small.
 	Through the above research,we find the two most direct features that affect depression: prefrontal asymmetry (Fp1-Fp2) and parietal asymmetry (P3-P4). By combining electroencephalogram (EEG) data and machine learning algorithms, this study has proposed a more objective and accurate diagnostic method for depression. By identifying key EEG features that affect depression, it helps to improve diagnostic accuracy and reduce the reliance on subjective judgment, thus making the diagnosis more objective and reliable. Meanwhile, the monitoring of key features helps to detect depressive tendencies at an early stage, realizing early diagnosis, precise treatment and effective prevention of depression, which helps to deepen the understanding of the neurobiological mechanisms of depression and provides an important reference for future research and treatment development.
 
+ ## REFERENCES
+ [1]	Jorm AF. using the Delphi expert consensus method in mental health research [J]. Aust N Z J Psychiatry, 2015,49(10):887 -897.  
+[2]	Central People's Government of the People's Republic of China. Healthy China Action (2019-2030) [EB/OL]. [2019-07-15].   
+[3]	ZHAO Y, ZHANG G, ZHANG Y, et al. Multi-view cross-subject seizure detection with information bottleneck attribution. j Neural Eng, 2022, 19(4): 046011. doi: 10.1088/1741-2552/ac7d0d.  
+[4]	L.L. Zeng, H. Shen, L. Liu, D. Hu, Unsupervised classification of major depression using functional connectivity MRI, Hum. Brain Mapp. 35 (2014) 1630 -1641.    
+[5]	U.R. Acharya, V.K. Sudarshan, H. Adeli, J. Santhosh, J.E. Koh, S.D. Puthankatti, A. Adeli, A novel depression diagnosis index using nonlinear features in EEG signals, Eur. Neurol. 74 (2015) 79-83.  
+[6]	A.P. Association, Diagnostic and Statistical Manual of Mental Disorders (DSM), American psychiatric association, Washington DC, 1994, pp. 143 -147.  
+[7]	H,H. JASPER, The ten twenty electrode system of the international federation, Electroencephalogr. Clin. Neurophysiol. 10 (1958) 371-375.  
+[8]	P. Berg, M. Scherg, A multiple source approach to the correction of eye artifacts, Electroencephalogr. Clin. Neurophysiol. 90 (1994) 229-241.  
+[9]	K. Hoechstetter, P. Berg, M. Scherg, BESA research tutorial 4: Distributed source imaging.BESA Res. Tutorial (2010) 1-29.  
+[10]	H. Hinrikus, A. Suhhova, M. Bachmann, K. Aadamsoo, Ã. vóhma, J. Lass, V. TuulikElectroencephalographic spectral asymmetry index for detection of depression, Med. BiolEng.Comput. 47 (2009) 1291-1299.  
+[11]	Wajid Mumtaz a, Likun Xia d, Syed Saad Azhar Ali a, Mohd Azhar Mohd Yasinb, Muhammad Hussainc, Aamir Saeed Malika. Electroencephalogram(EEG)-based computer-aided technique to diagnose major depressive disorder (MDD).Biomedical Signal Processing and Control 31 (2017) 108-115  
+[12]	Peng H, Xia C,Wang Z, et al. Multivariate pattern analysis of EEG-basedfunctional connectivity: a study on the identification of depression[J. EEEAccess, 2019,7: 92630-92641.  
+[13]	 Zhaoyan Shang. Research on EEG recognition of depression based on machine learning[D]. Shanxi University, 2024.DOI:10.27284/d.cnki. gsxiu.2023.000912.  
+[14]	 Koenigs M, Grafman J. The functional neuroanatomy of depression: Distinct roles for ventromedial and dorsolateral prefrontal cortex. Behav Brain Res. 2009; 201( 2) : 239 - 243.  
+[15]	Kaizeng Zhou . Research on directed brain network of depression based on EEG source localization[D]. Lanzhou University, 2023.DOI:10.27204/ d.cnki.glzhu.2022.003178.  
+[16]	Meiqing Liu , Yihao Yang, Yuehan Wang et al. Resting-state functional magnetic resonance imaging study of brain functional connectivity density in patients with medial temporal lobe epilepsy and depression[J]. Anhui Medicine,2023,27(12):2378-2383+2545.  
+[17]	Gui Fu. Effects of lateral occipital lobe and intraparietal sulcus on visual working memory accuracy[D]. Liaoning Normal   
+[18]	Uzma Hasan, Emam Hossain, and Md Osman Gani.A Survey on Causal Discovery Methods for I.I.D. and Time Series Data .Machine Learning, 2023.  
+
+
